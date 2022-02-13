@@ -1,0 +1,24 @@
+{
+    "repository": {},
+    "__outputFolder": null,
+    "blocks": [
+        {
+            "category": "access_control",
+            "name": "core-contract_runstate",
+            "parameters": {}
+        },
+        {
+            "category": "asset_value_tracking",
+            "name": "core-token",
+            "parameters": {
+                "name": "Fight",
+                "symbol": "FHT",
+                "decimals": "18",
+                "supply": "21000000"
+            }
+        }
+    ],
+    "blockchain": "ethereum",
+    "language": "solidity",
+    "framework": "vanilla"
+}
